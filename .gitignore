@@ -1,0 +1,5 @@
+*.class
+*.log
+out
+lib/pi4j-core-1.2-SNAPSHOT-javadoc.jar
+target/scala-2.12/*.jar
